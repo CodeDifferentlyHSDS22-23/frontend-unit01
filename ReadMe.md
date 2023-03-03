@@ -61,3 +61,10 @@ One list of some sort to organize your content and make it easy to follow
 With these elements in place, you'll have a blog post that's both informative and visually appealing. Get started on your masterpiece, and don't forget to have fun with it! 
 
 
+## Part 02 - 
+
+Well done on completing the CSS portion of the video! You're now ready for the next phase of the project, which is to create a fantastic Healthy Recipe blog. To help you get started, I've attached a screenshot of what your blog should look like in the imgs folder.
+
+If you have any questions or need guidance, don't hesitate to reach out to your team lead. Remember, your blog must include a link that directs to the actual recipe page, ensuring that your readers can access and follow the recipe easily.
+
+Creating a Healthy Recipe blog is an exciting and creative opportunity to showcase your skills and creativity. So, roll up your sleeves, put on your chef's hat, and get ready to cook up a storm! Good luck! 
