@@ -70,7 +70,7 @@ If you have any questions or need guidance, don't hesitate to reach out to your 
 Creating a Healthy Recipe blog is an exciting and creative opportunity to showcase your skills and creativity. So, roll up your sleeves, put on your chef's hat, and get ready to cook up a storm! Good luck!
 
 
-## Part3 
+## Part 03 -
 
 Congratulations on taking the first step towards becoming a better front-end developer by diving into the world of Javascript! With your newfound knowledge, you are now ready to take on your next challenge - building a tip calculator.
 
