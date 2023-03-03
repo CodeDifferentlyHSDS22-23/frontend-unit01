@@ -39,4 +39,25 @@ In the video the instructions guide to coding in the browser using Repl.it. At k
 
 >The reason for this, is so that when you complete a unit, you can push your changes up to github, and your Team Leads can track your progress.
 
+After cloning this repo from GitHub Classroom, the first step for Part 01 is to create a new file inside its designated folder.To create the new file for Part 01A, follow these steps:
+
+1. Locate the part01 folder in your file explorer or IDE, then right-click on it.
+
+2. Select 'New file' or similar option to create a new file within the folder.
+
+3. Name the file 'part01a.html', including the extension.
+
+4. Open the 'part01a.html'
+
+Congratulations on completing the HTML section of the video! It's time to showcase your skills and build a fantastic blog post. Don't worry; I've attached a screenshot of what it should look like. Now, let your creativity run wild, but make sure your blog post includes the following:
+
+4 eye-catching pictures of your choice
+4 prominent h1 headings to emphasize your key points
+4 informative h2 headings to provide supporting details
+4 well-written paragraph tags to convey your message effectively
+4 links that direct to different sites to provide additional resources and insights
+A footer to give your blog post a professional touch
+One list of some sort to organize your content and make it easy to follow
+With these elements in place, you'll have a blog post that's both informative and visually appealing. Get started on your masterpiece, and don't forget to have fun with it! 
+
 
