@@ -67,4 +67,16 @@ Well done on completing the CSS portion of the video! You're now ready for the n
 
 If you have any questions or need guidance, don't hesitate to reach out to your team lead. Remember, your blog must include a link that directs to the actual recipe page, ensuring that your readers can access and follow the recipe easily.
 
-Creating a Healthy Recipe blog is an exciting and creative opportunity to showcase your skills and creativity. So, roll up your sleeves, put on your chef's hat, and get ready to cook up a storm! Good luck! 
+Creating a Healthy Recipe blog is an exciting and creative opportunity to showcase your skills and creativity. So, roll up your sleeves, put on your chef's hat, and get ready to cook up a storm! Good luck!
+
+
+## Part3 
+
+Congratulations on taking the first step towards becoming a better front-end developer by diving into the world of Javascript! With your newfound knowledge, you are now ready to take on your next challenge - building a tip calculator.
+
+A tip calculator may seem like a simple task, but it is an essential tool for anyone who wants to provide great service and make their customers happy. As a front-end developer, you have the power to create a beautiful and functional tip calculator that will help people quickly and easily calculate their tip based on their meal cost and service quality.
+
+This project will not only showcase your Javascript skills but also your creativity and attention to detail. You can add your own personal touch to the calculator by including custom graphics, animations, and user-friendly features. With your expertise, you can ensure that users have a positive experience while using the calculator and feel confident in their calculations.
+
+By completing this task, you will not only enhance your development skills but also gain a sense of satisfaction from creating a useful tool that will benefit others. So go ahead and take on this challenge with enthusiasm, and let your skills shine!
+
