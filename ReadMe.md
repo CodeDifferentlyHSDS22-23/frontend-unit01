@@ -35,7 +35,7 @@ You will be watching and following along with the video below from FreeCodeCamp:
 
 ![](./imgs/img02.png)
 
-In the video the instructions guide to coding in the browser using Repl.it, however you will be following along by writing your code in visual studio code.
+In the video the instructions guide to coding in the browser using Repl.it. At key points you will be asked to pause the video, and complete a coding challenge in this project folder before continuing.
 
 >The reason for this, is so that when you complete a unit, you can push your changes up to github, and your Team Leads can track your progress.
 
